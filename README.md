@@ -1,4 +1,4 @@
-<a <img align="center" src="https://github.com/willam2007/willam2007/blob/main/hacker-meme.gif" /></a>
+<img align="center" src="https://github.com/willam2007/willam2007/blob/main/hacker-meme.gif" />
 <h1 align="center">Hi 👋, I'm Willam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
