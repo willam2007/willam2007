@@ -1,4 +1,4 @@
-(https://tenor.com/ru/view/hacker-hacker-meme-gamer-nekro-mongas-gif-24894566)
+<img align="center" src="https://tenor.com/ru/view/hacker-hacker-meme-gamer-nekro-mongas-gif-24894566" />
 <h1 align="center">Hi 👋, I'm Willam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
